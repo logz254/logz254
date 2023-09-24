@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logz254&label=Profile%20views&color=0e75b6&style=flat" alt="logz254" /> </p>
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **allanlogedi9@gmail.com**
 
