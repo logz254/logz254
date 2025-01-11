@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Allan Logedi</h1>
-<h3 align="center">Software Developer | Cybersecurity Researcher</h3>
+<h3 align="center">Software Developer | CyberSec Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logz254&label=Profile%20views&color=0e75b6&style=flat" alt="logz254" /> </p>
 
 - 🔭 Proficient in **PHP, JavaScript and Python**
-
-- 🌱 I’m currently learning **Red Teaming**
 
 - 📫 How to reach me **allanlogedi9@gmail.com**
 
